@@ -1,0 +1,1 @@
+# 自动开关机程序：bash <(curl -s https://raw.githubusercontent.com/BakInt/GoodTool/refs/heads/main/Linux/OpenOff.sh) [OpenOff.sh]([https://raw.githubusercontent.com/Bakint/Openclash/refs/heads/main/Rename.js](https://raw.githubusercontent.com/BakInt/GoodTool/refs/heads/main/Linux/OpenOff.sh))
